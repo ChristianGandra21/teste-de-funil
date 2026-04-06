@@ -74,6 +74,8 @@ Será testada a capacidade do usuário de localizar a funcionalidade, preencher 
    Investigue o principal atrito observado na experiência.
    Pergunta-base: "Se você pudesse mudar uma coisa nesse fluxo, qual seria?"
 
+![Representação do teste de funil](assets/representação%20do%20teste%20de%20funil.png)
+
 ### 4.2 Roteiro pronto (5 perguntas em funil)
 
 1. Ao olhar esta página, o que você entende que pode fazer aqui?
@@ -89,4 +91,3 @@ Descobrir se a pessoa consegue sair da página inicial e concluir o cadastro de 
 ## 6. Ação ou entendimento esperado
 
 Ao final da interação, o usuário deve conseguir criar uma ocorrência sem apoio externo e compreender com clareza que a ação foi concluída com sucesso.
-
